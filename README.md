@@ -5,7 +5,7 @@ These small bash functions intend to save some time on changing directories in S
 
 ### Installation
 
-Add content of cdproject.sh file to your ~/.bashrc which located in your home directory 
+Add content of cdproject.sh file to your ~/.bashrc which located in your Sparta home directory 
 run "source .bashrc" command 
 
 Every sparta instance have username and project folder
