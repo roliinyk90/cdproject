@@ -1,5 +1,5 @@
 <!-- GETTING STARTED -->
-These small bash functions intends to save some time on changing directories in Sparta
+These small bash functions intend to save some time on changing directories in Sparta
 
 
 
