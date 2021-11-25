@@ -5,8 +5,8 @@ These small bash functions intend to save some time on changing directories in S
 
 ### Installation
 
-Add content of cdproject.sh file to your ~/.bashrc which located in your Sparta home directory 
-run "source .bashrc" command 
+Add content of cdproject.sh file to your ~/.bashrc which located in your Sparta home directory and
+run ```source .bashrc``` command 
 
 Every sparta instance have username and project folder
 For examle https://*.sparta.ceng.magento.com/roliinyk/42135/pub/admin/catalog/product/ 
