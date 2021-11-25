@@ -18,11 +18,13 @@ username is roliinyk
 ## Usage
 
  
- 
+ Change directory : 
+
  ```cdproject roliinyk 42135 ``` 
 
 will change directory to project  https://*.sparta.ceng.magento.com/roliinyk/42135/pub
 
+Change directory and run any magento command :
  
 ``` cdproject roliinyk 42135 c:c``` 
 
