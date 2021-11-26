@@ -10,7 +10,9 @@ run ```source .bashrc``` command
 
 Every sparta instance have username and project folder
 For examle https://*.sparta.ceng.magento.com/roliinyk/42135/pub/admin/catalog/product/ 
+
 username is roliinyk 
+
 42135 is project folder
 
 
