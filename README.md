@@ -33,7 +33,8 @@ Change directory and run any magento command :
 will change directory to required project and run Magento command (c:c in this example)
 
 
-by default magento command runs with php74 to specify anouther php version add php argument at the end:
+by default magento command runs with php74
+ to specify anouther php version add php argument at the end:
 
 ``` cdproject roliinyk 42135 c:c php73``` 
 
