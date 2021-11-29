@@ -24,7 +24,7 @@ username is roliinyk
 
  ```cdproject roliinyk 42135 ``` 
 
-change directory to project  https://*.sparta.ceng.magento.com/roliinyk/42135/pub
+change the directory on Sparta where project  https://*.sparta.ceng.magento.com/roliinyk/42135/pub is located 
 
 Change directory and run any magento command :
  
